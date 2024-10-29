@@ -128,5 +128,5 @@ crew = Crew(
     verbose=2
 )
 
-inputs = {"topic":"Comparative study of Indian Education System with the Western Education System."}
+inputs = {"topic":"How LLMs are Revolutionizing Natural Language Processing?"}
 result = crew.kickoff(inputs=inputs)
